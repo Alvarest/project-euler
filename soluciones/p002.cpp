@@ -14,7 +14,7 @@ int main() {
   int n2 = 0;
   int sum = n1;
   while (n2 < DIM) {
-    n2 = fibonacci(n0, n1);
+    n2 = fibonacci(n0, n1); //Es un problema hacer fibonacci antes del while.
     if (n2%2 == 0){
       sum += n2;
     }
