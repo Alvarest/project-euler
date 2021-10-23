@@ -1,6 +1,3 @@
-//Hay que pensar sobre lo de (double)n, además hay que intentar hacerlo más eficiente porque buscar cada factor de 
-// de cada número no es nada eficiente. Por lo demás buen trabajo
-
 #include <stdio.h>
 #include <math.h>
 
