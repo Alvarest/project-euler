@@ -20,7 +20,7 @@ int main(){
     scanf("%d", &tamaño);
 
     long long int columna[N];
-    solCuadrado(columna, tamaño); //Esta función borra todo el contenido del array que se le pasa.
+    solCuadrado(columna, tamaño);
     printf("Hay %lld formas de llegar a la esquina inferior de un cuadrado de dimensión %d. \n", columna[tamaño], tamaño);
     return 0;
 }
