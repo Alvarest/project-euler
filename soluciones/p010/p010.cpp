@@ -20,7 +20,7 @@ bool isPrime(int pk){
 int main(){
     long sum = 2+3+5+7; //Empiezo por los mayores de 10 aunque no tendría porque. Que sea long es importante
     int pk = 12;
-    //Todo número primo se puede escribir como 6k(+/-)1, trivial. Lo demás es sencillo. Hay que tener cuidado con el <N aunque en este caso no molesta.
+    //Todo número primo se puede escribir como 6k(+/-)1, trivial. Lo demás es sencillo.
     while (pk < N){
         if (isPrime(pk-1)){
             sum += pk-1;
