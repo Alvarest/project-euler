@@ -1,3 +1,4 @@
 # project-euler
 
-My solutions to project euler's problems
+Mis soluciones a los problemas de Project Euler
+https://projecteuler.net/archives
