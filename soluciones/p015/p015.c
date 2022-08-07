@@ -2,7 +2,7 @@
 
 const int N = 50;
 
-//He construido el triangulo de Pascal sin darme cuenta, wow
+//He construido el triangulo de Pascal sin darme cuenta
 //TODO Modificar esta funcion para que construya la fila N del triangulo de Pascal
 void solCuadrado(long long int *columna, long long int tamaño){
     columna[0] = 1;
